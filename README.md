@@ -2,7 +2,7 @@
 ## Code Tests
 So you're interviewing at SignalPath, and you've progressed far enough that we want a code sample. Congratulations! Follow the link to the appropriate assessment, and then submit your answers to your recruiting contact. (And hey, if you're not already in the interviewing progress, take a look at our [open positions](http://signalpath.workable.com).)
 
-* Platform Engineering
+* [Platform Engineering](platform.md)
 * UI Engineering
 * Systems/DevOps Engineering
 
