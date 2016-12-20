@@ -1,0 +1,21 @@
+ 1. Rank each of the following tools, languages and frameworks on a 4 point scale, where 1 = "I've been paid to write production-quality code with it." and 4 = "I could write the equivalent of a Hello World web application if I had a tutorial."
+  * JQuery
+  * Python
+  * Cucumber
+  * Scala
+  * Selenium
+  1
+  * Puppet
+  * Rspec
+  * Node.js
+  * Ruby
+  * Watir
+  * Java
+  * Jenkins 1
+  * Chef
+1. SignalPath has bought a new vending machine and it is going to be under heavy usage (we love snacks).  You have been nominated to test it and make sure it is up to the task.  How would you approach this?
+* I will pick my snack number and press buttons to test if it will give a snack with no money input. If i am lucky will enjoy a snack with no money input and then log it as test failed.
+1. Create four test cases for Twitter's authentication functionality.
+* Negative login auth such as with special characters or Invalid login test followed by Positive invalid auth user test.
+1. Suppose you have a web site with two form elements on it: a multi-line textarea and button that says "multiply". The expected behavior is that when you click "multiply" all of the numbers written in the textarea are multiplied together and written next to the textarea. For instance, if the textarea has the numbers 5, 7, 11 then the output will be 385. Identify all the test cases that you would need to write. (You do not actually need to write the detailed steps for every test case, just the summary.)
+* Consider the array of comma in the text area count of integer digits in the text area. The comma is considered as times of multiplication and the integers digits are the factors to calculate the answer when click on Multiply or submit button.
