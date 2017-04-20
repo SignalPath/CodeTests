@@ -6,6 +6,7 @@ So you're interviewing at SignalPath, and you've progressed far enough that we w
 * [UI Engineering](ui.md)
 * [Software Engineering in Test](set.md)
 * [QA Engineer](qa.md)
+* [DevOps](devops.md)
 
 ## About SignalPath
 [SignalPath](http://www.signalpath.com) creates software that makes the clinical research process easier and more enjoyable.
