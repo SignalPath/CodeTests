@@ -1,7 +1,7 @@
 # SignalPath, LLC.
 ## QA Engineer Code Assessment
 
-1. Rank each of the following tools, languages and frameworks on a 4 point scale, where 1 = "I’ve been paid to write production-quality code with it." and 4 = "I could write the equivalent of a Hello World web application if I had a tutorial."
+Please rank each of the following tools, languages and frameworks on a 4 point scale, where 1 = "I’ve been paid to write production-quality code with it." and 4 = "I could write the equivalent of a Hello World web application if I had a tutorial."
 * JQuery
 * Python
 * Cucumber
@@ -15,6 +15,7 @@
 * Java
 * Jenkins
 * Chef
+
 1.  SignalPath has bought a new vending machine and it is going to be under heavy usage (we love snacks). You have been nominated to test it and make sure it is up to the task. How would you approach this?
 2.  Create two test cases for Twitter’s authentication functionality.
 3.  Using any tool of your choice, create an automated test for one of the two test cases from the previous question (Twitter); or if your scripting knowledge is limited, discuss how you would go about testing the test case using automation.
