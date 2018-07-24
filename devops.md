@@ -7,5 +7,4 @@ The Marketing team is building a new site from scratch. A Marketing Manager has 
 1. What additional steps would you plan on doing once the Marketing Manager says she's ready for the site to be in production. What tools would you use to accomplish those steps?
 
 Notes:
-1. We prefer that you use Vagrant when creating your virtualized environment.
 1. We will be running the provisioning script on MacBook Pros.
