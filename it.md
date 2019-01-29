@@ -1,6 +1,6 @@
 # SignalPath, LLC.
 ## Desktop Engineer Technical Test
-Using a tool such as Ansible, TerraForm, CloudFormation, Powershell scripts:
+Using a tool such as Powershell, Ansible, TerraForm, or CloudFormation scripts:
 1. Provision a Managed Microsoft directory in AWS Directory Service. You can create dependencies (such as subnets and VPCs) by hand.
 2. Provision a Windows EC2 instance in AWS, and have it join the AD you provisioned in #1
 
