@@ -5,6 +5,7 @@ So you're interviewing at SignalPath, and you've progressed far enough that we w
 * [Platform Engineering](platform.md)
 * [UI Engineering](ui.md)
 * [Software Engineering in Test](set.md)
+* [Manager of Software Quality Assurance](msqa.md)
 * [QA Engineer](qa.md)
 * [DevOps](devops.md)
 * [Desktop Engineer](it.md)
