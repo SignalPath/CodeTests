@@ -1,6 +1,6 @@
 # SignalPath, LLC.
 ## Tableau Engineer Technical Test
-Use [Tableau TestData.xlsx](tableau/TestData.xlsx) & [Tableau TableauTestData2.xlsx](tableau/TableauTestData2.xlsx) to make your data source and create a dashboard meeting the following requirments:
+Use [TableauTestData.xlsx](tableau/TableauTestData.xlsx) & [Tableau TableauTestData2.xlsx](tableau/TableauTestData2.xlsx) to make your data source and create a dashboard meeting the following requirments:
 * Filtered to Condition with the most clinical trials
 * Total number of enrolled patients
 * Total number of trials
